@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude local prescription records and security prefs from cloud backups -->
+    <exclude domain="database" path="samjha_rx.db" />
+    <exclude domain="database" path="samjha_rx.db-wal" />
+    <exclude domain="database" path="samjha_rx.db-shm" />
+    <exclude domain="sharedpref" path="samjha_rx_prefs.xml" />
+</full-backup-content>

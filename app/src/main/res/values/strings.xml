@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Samjha? Rx</string>
+    <string name="app_tagline">Make your prescription make sense</string>
+    <string name="app_tagline_urdu">نسخہ سمجھیں، بے فکری سے صحت مند رہیں</string>
+    <string name="nav_home">Understand</string>
+    <string name="nav_pharmacist">Pharmacist</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_account">Account &amp; Lock</string>
+</resources>
